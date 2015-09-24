@@ -63,7 +63,7 @@ void loop() {
 }
 
 /**
- * Shows the input number on the binary (mod=16) oo any other base LED array.
+ * Shows the input number on LED based on the binary (mod=16) oo any other basearray.
  */
 int showNumber(int x,int mod){
 
